@@ -10,7 +10,7 @@
 
 
 ```
-***Thanks & Regards
+Thanks & Regards
 Harshad Shah
 
 ```
